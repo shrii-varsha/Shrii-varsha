@@ -1,9 +1,9 @@
 # 💫 About Me:
-🎓 Final Year B.E Artificial Intelligence and Machine Learning student at **K.S. Rangasamy College of Technology**  <br>
-- 🔭 I’ve worked on ML-based projects like heart stroke prediction and RPA automation bots using UiPath.  
-- 📚 I'm currently learning Azure cloud services, including AutoML and Cognitive Services.  
-- 🤝 Actively looking for placement opportunities in AI/ML and eager to collaborate on real-world projects.
-💡 Passionate about building real-world solutions using AI, ML, RPA, and Cloud technologies
+ Final Year B.E Artificial Intelligence and Machine Learning student at **K.S. Rangasamy College of Technology**  <br>
+-  I’ve worked on ML-based projects like heart stroke prediction and RPA automation bots using UiPath.  
+-  I'm currently learning Azure cloud services, including AutoML and Cognitive Services.  
+-  Actively looking for placement opportunities in AI/ML and eager to collaborate on real-world projects.
+   Passionate about building real-world solutions using AI, ML, RPA, and Cloud technologies
 
 
 ###
@@ -32,8 +32,11 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
